@@ -1,6 +1,6 @@
 <?php 
 $page_title = "Create Account";
-include 'includes/header.php'; 
+include 'header.php'; 
 ?>
 
 <section class="auth-banner d-flex align-items-center justify-content-center text-center">

@@ -77,10 +77,12 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
-                <a href="index.php" class="nav-item nav-link">Home</a>
+                <a href="adminDashboard.php" class="nav-item nav-link">Dashboard</a>
                 <a href="addcategories.php" class="nav-item nav-link">Add</a>
              <a href="managecategories.php" class="nav-item nav-link">Manage</a>
                 <a href="Productcategories.php" class="nav-item nav-link">Product</a>
+                <!-- <a href="login.php" class="nav-item nav-link">login</a> -->
+
                  
                 <!-- <a href="about.php" class="nav-item nav-link">About</a>
                 <a href="service.php" class="nav-item nav-link">Services</a>

@@ -16,7 +16,7 @@ include("header.php");
     </div>
 </div>
 <!-- Page Header End -->
-<?php
+<?php 
 if (isset($_REQUEST['msg'])) {
 ?>
     <p class="alert alert-success"><?php echo $_REQUEST['msg'] ?></p>

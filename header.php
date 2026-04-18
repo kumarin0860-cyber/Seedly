@@ -81,6 +81,8 @@
                 <a href="about.php" class="nav-item nav-link">About</a>
                 <a href="service.php" class="nav-item nav-link">Services</a>
                 <a href="project.php" class="nav-item nav-link">Projects</a>
+                <a href="login.php" class="nav-item nav-link">login</a>
+                
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Pages</a>
                     <div class="dropdown-menu bg-light m-0">

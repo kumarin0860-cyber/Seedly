@@ -30,7 +30,7 @@ include('./header.php')
             $i = 0;
 
             include("./config.php");
-            $query = "SELECT * FROM `category` ";
+            $query = "SELECT * FROM `categories` ";
             $result = mysqli_query($db, $query);
             while ($row = mysqli_fetch_assoc($result)) {
             ?>
